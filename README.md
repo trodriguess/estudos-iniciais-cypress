@@ -16,6 +16,12 @@ Projeto criado durante o curso *Cypress para Iniciantes* da Alura, com o objetiv
 
 ## Tecnologias utilizadas
 
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,cypress,nodejs,npm" />
+  </a>
+</p>
+
 - **JavaScript** — para os testes e configuração do Cypress  
 - **Cypress** — framework de testes end-to-end  
 - Node.js / npm — para gerenciamento de dependências  
